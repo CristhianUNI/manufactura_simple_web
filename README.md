@@ -1,1 +1,1 @@
-# manufactura_simple_web
+# Resumen del primero encuentro de manufactura
